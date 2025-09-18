@@ -1,0 +1,15 @@
+.box{
+    width:1440px ;
+    height: 4134px;
+}
+
+.text{
+    display: flex;
+    gap: 475px;
+    width: 1179px;
+    height: 41px;
+    top: 46px;
+    left: 131px;
+    background-color: blue;
+    color: white;
+}
